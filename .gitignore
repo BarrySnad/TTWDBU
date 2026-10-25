@@ -1,0 +1,13 @@
+# Godot editor cache and imported artifacts
+.godot/
+
+# Exported builds
+*.exe
+*.pck
+*.zip
+/builds/
+/export/
+
+# Operating system noise
+.DS_Store
+Thumbs.db
